@@ -6,7 +6,7 @@ This project is written using: HTML, CSS, Bootstrap, JAVASCRIPT, REACT, NodeJS a
 
 The files of the React application are in the "client/web-ui" folder and the server's home page is the React application. The git repository does not include the “node_modules” folder, so in order to run our application, you need to follow these stages:
 
-Clone into the git repository, using the command: "git clone https://github.com/Shenhavk/Web-chatting-app"
+Clone into the git repository, using the command: "git clone https://github.com/Refael1204/Web-Chatting"
 Navigate to “server” folder.
 Run the command “npm install” in command line, which will create the “node_module” folder.
 Run the application via command line using the command “node app.js”.
